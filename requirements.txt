@@ -4,3 +4,4 @@ opencv-python
 scikit-learn
 pandas
 tqdm
+ensemble-boxes
