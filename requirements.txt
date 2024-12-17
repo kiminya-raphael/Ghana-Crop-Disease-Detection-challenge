@@ -1,0 +1,6 @@
+ultralytics==8.3.49
+albumentations==1.4.20
+opencv-python
+scikit-learn
+pandas
+tqdm
